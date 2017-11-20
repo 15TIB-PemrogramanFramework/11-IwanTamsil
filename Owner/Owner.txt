@@ -1,0 +1,8 @@
+Biodata diri
+
+nama = Iwan Tamsil
+TTL = SP 1 . Kota Tengah , 24 Mei 1997
+Alamat = Jln Rowosari No 4 , Rumbai
+Email = iwan15ti@mahasiswa.pcr.ac.id
+No Handphone = 082284869489
+Kelas = 3TIB

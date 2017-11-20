@@ -1,0 +1,25 @@
+ <!DOCTYPE html PUBLIC “-//W3C//DTD XHTML 1.0 Strict//EN” “http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd”>
+<html>
+<head>
+<title>My Test Page</title>
+<script src="js/jquery-1.9.1.js"></script>	
+ <script>
+  $(document).ready(function(){
+    $("button:gt(0)").attr("disabled","disabled");
+    $("#cek:gt(1)").attr("checked","checked");
+  });
+  </script>
+  <style>
+  button { margin:10px; }
+  </style>
+</head>
+<body>
+  <button>0th Button</button>
+  <button>1st Button</button>
+  <button>2nd Button</button>
+  <input type="checkbox" id="cek">
+  <input type="checkbox" id="cek">
+  <input type="checkbox" id="cek[]">
+  <input type="checkbox" id="cek[]">
+</body>
+</html>
